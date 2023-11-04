@@ -1,0 +1,12 @@
+syntax = "proto3";
+package protos;
+
+import "google/protobuf/timestamp.proto";
+
+message sensorData{
+   string make_and_model=1;
+  int32 destination_year=2;
+  repeated double flux_capacitor_readings = 3;
+   google.protobuf.Timestamp last_check_in =4;
+  bool safety_belts_on = 5;
+}

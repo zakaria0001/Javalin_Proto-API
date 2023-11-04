@@ -1,0 +1,9 @@
+protos/Sensor$sensorData$Builder.class
+protos/Sensor$sensorDataOrBuilder.class
+protos/Sensor.class
+protos/Sensor$sensorData$1.class
+org/app/model/objects/sensorData.class
+protos/Sensor$sensorData.class
+org/app/model/mappers/BaseMapper.class
+protos/Sensor$1.class
+org/app/model/dao/FakeDAO.class
